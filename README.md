@@ -7,7 +7,7 @@
     <img align="left" alt="Emily Ashburn | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 
-<img align='right' src="https://github.com/emilyashburn/emilyashburn/blob/main/pikachu-swimming-pool.gif" style="width: 500px;">
+<img align='right' src="https://github.com/emilyashburn/emilyashburn/blob/main/pikachu-swimming-pool.gif" style="width: 400px;">
 
 
 
