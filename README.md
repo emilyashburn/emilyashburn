@@ -8,7 +8,8 @@ Hey there! 😊✨ My name is Emily (she/her) and I completed my B.S. in Compute
 - 🤖 Projects: most of my work on GitHub is a showcase of assignments I have completed during my undergrad career, but I'm starting up a new project ```parabankAutomation``` to showcase my knowledge in automating FinTech user flows 
 ## Tools I Use For QA
 <div>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
