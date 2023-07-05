@@ -4,7 +4,7 @@ Hey there! 😊✨ My name is Emily (she/her) and I completed my B.S. in Compute
 
 
 - 🎨 Hobbies: my free-time is all about [art - I have a TikTok!](https://www.tiktok.com/@winfieid99) 🖌️, camping ⛺, gaming 👾, and binging my favorite SCI-FI shows 👩‍🚀
-- 🌱 Currently learning my way around a Python framework, Robot Framework, and how to utilize Javascript and Python to enhance testcases. 
+- 🌱 Currently learning my way around a JavaScript framework, **Node.js**, and how to utilize **Cypress**, **Mocha**, & **Chai** to automate test cases. 
 - 🤖 Projects: most of my work on GitHub is a showcase of assignments I have completed during my undergrad career, but I'm starting up a new project ```parabankAutomation``` to showcase my knowledge in automating FinTech user flows 
 ## Tools I Use For QA
 <div>
