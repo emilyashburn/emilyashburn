@@ -56,7 +56,4 @@ Hey there! 😊✨ My name is Emily (she/her) and I completed my B.S. in Compute
 <a href="mailto:enashburn99@gmail.com">
     <img alt="Emily Ashburn | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
-<a>
-    <img src= "https://img.shields.io/static/v1?style=for-the-badge&message=Indeed&color=003A9B&logo=Indeed&logoColor=FFFFFF&label="/>
-</a>
 </div>
