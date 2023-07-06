@@ -1,6 +1,6 @@
 <img align='right' src="https://github.com/emilyashburn/emilyashburn/blob/main/pikachu-swimming-pool.gif" style="width: 400px;"/>
 
-Hey there! 😊✨ My name is Emily (she/her) and I completed my B.S. in Computer Science at University of North Carolina - Greensboro. I currently work as a ```Quality Assurance Test Automation Engineer``` based in North Carolina working on an East Coast Remote QA team. 
+Hey there! 😊✨ My name is Emily (she/her) and I completed my B.S. in Computer Science at University of North Carolina - Greensboro. Working as a ```Quality Assurance Test Automation Engineer``` based in North Carolina actively looking for my next project. 
 
 
 - 🎨 Hobbies: my free-time is all about [art - I have a TikTok!](https://www.tiktok.com/@winfieid99) 🖌️, camping ⛺, gaming 👾, and binging my favorite SCI-FI shows 👩‍🚀
