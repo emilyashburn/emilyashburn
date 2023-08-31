@@ -3,9 +3,11 @@
 Hey there! 😊✨ My name is Emily (she/her) and I completed my B.S. in Computer Science at University of North Carolina - Greensboro. Working as a ```Quality Assurance Test Automation Engineer``` based in North Carolina actively looking for my next project. 
 
 
-- 🎨 Hobbies: my free-time is all about [art - I have a TikTok!](https://www.tiktok.com/@winfieid99) 🖌️, camping ⛺, gaming 👾, and binging my favorite SCI-FI shows 👩‍🚀
-- 🌱 Currently learning my way around a JavaScript framework, **Node.js**, and how to utilize **Cypress**, **Mocha**, & **Chai** to automate test cases. 
-- 🤖 Projects: most of my work on GitHub is a showcase of assignments I have completed during my undergrad career, but I'm starting up a new project ```parabankAutomation``` to showcase my knowledge in automating FinTech user flows 
+- 🎨 Hobbies: my free time is all about [art - I have a TikTok!](https://www.tiktok.com/@winfieid99) 🖌️, camping ⛺, gaming 👾, and binging my favorite SCI-FI shows 👩‍🚀
+- 🌱 Currently rediscovering my love for colored pencils 
+- 🤖 Projects:
+  - ```parabankAutomation``` to automate E2E processes via Python and Robot Framework.
+  - ```Cypress_Examples``` to automate processes via JavaScript and Cypress. 
 ## Tools I Use For QA
 <div>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
